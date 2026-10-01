@@ -1,0 +1,151 @@
+    1  python 3 --version
+    2  python3 --verison
+    3  python3 --version
+    4  sudo apt update
+    5  sudo apt install fastfetch
+    6  fastfetch
+    7  nano ~/.bashrc
+    8  source ~/.bashrc
+    9  fastfetch --logo-color-1 cyan --logo-color-2 blue
+   10  fastfetch --logo-color-1 red logo-color-2 black
+   11  fastfetch --logo-color-1 red --logo-color-2 black
+   12  fastfetch --gen-config
+   13  nano ~/.config/fastfetch/config.jsonc
+   14  pwd
+   15  ls
+   16  ls -Force
+   17  ls
+   18  ls -force
+   19  ls -e
+   20  ls -a
+   21  cd
+   22  ls
+   23  ls -a
+   24  ls -l
+   25  ls
+   26  cd
+   27  ls
+   28  ls -c
+   29  ls -a
+   30  ls -l
+   31  pwd
+   32  ls
+   33  ls -a
+   34  ls -l
+   35  fastfetch --gen-config
+   36  /Desktop
+   37  cd 
+   38  cd /Desktop
+   39  cd Desktop
+   40  cd desktop
+   41  cd ~/desktop
+   42  cd ~/Desktop
+   43  pwd
+   44  ls ~
+   45  ls
+   46  cd ~/Desktop
+   47  Desktop
+   48  cd
+   49  cd Desktop
+   50  wsl
+   51  pwd
+   52  clera
+   53  clear
+   54  wd
+   55  pwd
+   56  clear
+   57  pwd
+   58  ls
+   59  ls -a
+   60  ls -l
+   61  ls
+   62  cd C:\Users\vaish\Terminal CC
+   63  cd ~/Termianl CC
+   64  cd ~/Terminal CC
+   65  cd terminal
+   66  cd
+   67  cd terminal
+   68  cd ~/terminal
+   69  pwd
+   70  exit
+   71  echo $path
+   72  which python3
+   73  which pyton3
+   74  cd Desktop/
+   75  cd ~/Desktop/
+   76  cd coding-cafe/
+   77  cd coding-cafe
+   78  cd
+   79  cd vaish
+   80  cd vaish/
+   81  cd /mnt/c/Users/vaish
+   82  mkdir coding-cafe
+   83  cd coding-cafe
+   84  mkdir week01
+   85  mkdir week02
+   86  mkdir README.md
+   87  touch README.md
+   88  cd week02
+   89  touch WORK.md
+   90  cd coding-cafe
+   91  cd coding-cafe/
+   92  cd
+   93  cd /mnt/c/Users/vaish/coding-cafe
+   94  ls coding-cafe/week02
+   95  ls week02
+   96  pwd
+   97  ls -l
+   98  cp README.md README-backup.md
+   99  mv README-backup.md week01/week01
+  100  cp README.md README-backup.md
+  101  mv README-backup.md week01/
+  102  cd week01
+  103  mv README-backup.md old-readme.md
+  104  rm old-readme.md
+  105  echo $path
+  106  which python3
+  107  which pip
+  108  which ls
+  109  which VALORANT
+  110  which path
+  111  echo $path
+  112  cd path
+  113  echo $path
+  114  which pyton3
+  115  which pip3
+  116  sudo apt install python3-pip
+  117  echo $PATH
+  118  which pip
+  119  which pyton3
+  120  cd ~/coding-cafe
+  121  cd /home/vaish.coding-cafe
+  122  cd mnt/c/Users/vaish/coding-cafe
+  123  cd /mnt/c/Users/vaish/coding-cafe
+  124  python3 -m venv .venv
+  125  apt install python3.14-venv
+  126  sudo apt install python3.14 -venv
+  127  python3 -m venv .venv
+  128  sudo apt update
+  129  sudo apt install-venv
+  130  sudo apt python-venv
+  131  sudo apt python3-venv
+  132  sudo apt install python3-venv
+  133  python3 -m venv .venv
+  134  ls
+  135  ls -a
+  136  source ,venv/bin/activate
+  137  source .venv/bin/activate
+  138  cd ~/coding-cafe
+  139  cd /mnt/c/Users/vaish/coding-cafe
+  140  source .venv/bin/activate
+  141  which python3
+  142  pip list
+  143  pip install requests
+  144  pip list
+  145  deactivate
+  146  which python3
+  147  man ls
+  148  ls -h
+  149  history
+  150  cd /mnt/c/Users/vaish/coding-cafe
+  151  history > week02/lab01-log.txt
